@@ -2,6 +2,7 @@
 
 # Commands
 - $ npm install express@4
+- $ npm install socket.io
 
 # 출생배경
 - 비동기통신을 뒤이어 Request, Response 관계에서 탈피한 양방향 자유 송수신
