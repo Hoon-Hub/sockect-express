@@ -1,5 +1,8 @@
 # 웹소켓 ( websocket )
 
+# Commands
+- $ npm install express@4
+
 # 출생배경
 - 비동기통신을 뒤이어 Request, Response 관계에서 탈피한 양방향 자유 송수신
 ex) 카카오톡 채팅, 가상화폐 거래소
